@@ -20,3 +20,6 @@ Inside of the python terminal
 ```
 
 There should be two folders in the code directory now. One that says train_data and another that says test_data. data.py has more methods to load and transform the data.
+
+
+Run main.py to run some test on the data. 
